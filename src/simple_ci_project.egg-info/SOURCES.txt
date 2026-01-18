@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/simple_ci_project/__init__.py
+src/simple_ci_project/calculator.py
+src/simple_ci_project.egg-info/PKG-INFO
+src/simple_ci_project.egg-info/SOURCES.txt
+src/simple_ci_project.egg-info/dependency_links.txt
+src/simple_ci_project.egg-info/top_level.txt
+tests/test_calculator.py

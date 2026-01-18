@@ -1,0 +1,8 @@
+[project]
+name = "simple-ci-project"
+version = "0.1.0"
+description = "Simple project to learn CI"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
